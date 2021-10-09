@@ -3,7 +3,7 @@
 "productName": "haru_2019",
 "productVersion": "0.1",
 "dataUrl": "build.data.unityweb",
-"wasmCodeUrl": "build.wasm.code.unityweb",
+"wasmCodeUrl": "build.wasm",
 "wasmFrameworkUrl": "build.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
